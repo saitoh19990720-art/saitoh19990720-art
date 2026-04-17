@@ -21,11 +21,11 @@ I handle the full flow — UI design → prototyping → coding → light automa
 
 | Project | Description | Stack |
 |---|---|---|
-| [押印 / Oshi-Log](https://fervent-wozniak.vercel.app) | Personal activity log app with dark-mode-only UI | HTML / CSS / JS / Vercel |
+| [押印 / Oshi-Log](https://oshi-log-shizuku.vercel.app) | Personal activity log app with dark-mode-only UI | HTML / CSS / JS / Vercel |
 
 ### Portfolio
 
-https://dist-sizuku.vercel.app
+https://shizuku-portfolio.vercel.app
 
 ### Available for
 
