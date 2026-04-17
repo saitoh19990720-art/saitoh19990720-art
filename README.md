@@ -27,12 +27,10 @@ I handle the full flow — UI design → prototyping → coding → light automa
 | [Lumière LP](https://salon-demo-shizuku.vercel.app) | Esthetics salon LP, serif × earth-tone | HTML / CSS / Vercel |
 | [Banner Samples](https://banner-demo-shizuku.vercel.app) | Multi-size banners, static + animated | HTML / CSS / Vercel |
 
-### Available for
+### Repos
 
-- LP design & coding
-- Figma delivery
-- Page improvement & diff deployment
-- Banner production (multi-size, animated)
+- **[oshi-log](https://github.com/saitoh19990720-art/oshi-log)** — Vanilla JS log app
+- **[portfolio](https://github.com/saitoh19990720-art/portfolio)** — Portfolio site source
 
 ### Contact
 
