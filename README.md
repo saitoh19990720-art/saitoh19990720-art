@@ -1,15 +1,16 @@
 ## Hi, I'm Shizuku
 
 Freelance designer & front-end developer based in Japan.  
-I handle the full flow — UI design → prototyping → coding → light automation.
+Specializing in **Z-gen SNS culture design** — translating the aesthetic language of _jiraiken / tenshi / mizuiro_ (JP fan-account subcultures) into Figma systems and AI-powered products.
 
 ### What I do
 
+- **Subculture design systems** — color, typography, motif rules per aesthetic
 - **LP & Web coding** — HTML / CSS, pixel-perfect from Figma handoff
-- **UI design** — Figma wireframe to visual, component-ready delivery
-- **SP optimization** — layout, spacing, mobile-first
-- **Banner production** — multi-size (728×90 / 300×250 / 160×600 / 320×50)
-- **Light automation** — n8n workflows for simple ops tasks
+- **UI design** — Figma component design, design token architecture
+- **SNS template design** — headers, icons, story layouts for fan accounts
+- **AI × MCP implementation** — Claude Code / MCP for rapid front-end builds
+- **Light automation** — n8n workflows
 
 ### Stack
 
@@ -22,14 +23,14 @@ I handle the full flow — UI design → prototyping → coding → light automa
 
 | Project | Description | Stack |
 |---|---|---|
-| [押印 / Oshi-Log](https://oshi-log-shizuku.vercel.app) | Personal activity log app, dark-mode UI | HTML / CSS / JS / Vercel |
-| [Stillwater LP](https://lp-demo-shizuku.vercel.app) | Visiting nursing station LP (medical) | HTML / CSS / Vercel |
+| [押印 / Oshi-Log](https://oshi-log-shizuku.vercel.app) | Fan activity log app — dark/light, CSS token design, search filter | HTML / CSS / JS / Vercel |
+| [Stillwater LP](https://lp-demo-shizuku.vercel.app) | Visiting nursing LP (medical) | HTML / CSS / Vercel |
 | [Lumière LP](https://salon-demo-shizuku.vercel.app) | Esthetics salon LP, serif × earth-tone | HTML / CSS / Vercel |
 | [Banner Samples](https://banner-demo-shizuku.vercel.app) | Multi-size banners, static + animated | HTML / CSS / Vercel |
 
 ### Repos
 
-- **[oshi-log](https://github.com/saitoh19990720-art/oshi-log)** — Vanilla JS log app
+- **[oshi-log](https://github.com/saitoh19990720-art/oshi-log)** — Fan activity log app (Vanilla JS)
 - **[portfolio](https://github.com/saitoh19990720-art/portfolio)** — Portfolio site source
 
 ### Contact
