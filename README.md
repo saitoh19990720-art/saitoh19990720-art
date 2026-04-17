@@ -1,6 +1,6 @@
 ## Hi, I'm Shizuku
 
-Freelance designer & front-end developer based in Tokyo.
+Freelance designer & front-end developer based in Japan.  
 I handle the full flow — UI design → prototyping → coding → light automation.
 
 ### What I do
@@ -22,10 +22,7 @@ I handle the full flow — UI design → prototyping → coding → light automa
 | Project | Description | Stack |
 |---|---|---|
 | [押印 / Oshi-Log](https://oshi-log-shizuku.vercel.app) | Personal activity log app with dark-mode-only UI | HTML / CSS / JS / Vercel |
-
-### Portfolio
-
-https://shizuku-portfolio.vercel.app
+| [Stillwater LP](https://lp-demo-shizuku.vercel.app) | Visiting nursing station LP demo (medical) | HTML / CSS / Vercel |
 
 ### Available for
 
@@ -34,6 +31,11 @@ https://shizuku-portfolio.vercel.app
 - Page improvement & diff deployment
 - Banner production
 
+### Contact
+
+- Portfolio: https://shizuku-portfolio.vercel.app
+- CrowdWorks / Lancers:「しずく」で検索
+
 ---
 
-*Available via text. No calls required.*
+*Available via text. Response within 24h.*
