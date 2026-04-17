@@ -22,16 +22,17 @@ I handle the full flow — UI design → prototyping → coding → light automa
 
 | Project | Description | Stack |
 |---|---|---|
-| [押印 / Oshi-Log](https://oshi-log-shizuku.vercel.app) | Personal activity log app with dark-mode-only UI | HTML / CSS / JS / Vercel |
-| [Stillwater LP](https://lp-demo-shizuku.vercel.app) | Visiting nursing station LP demo (medical) | HTML / CSS / Vercel |
-| [Banner Samples](https://banner-demo-shizuku.vercel.app) | Multi-size banner demo (4 sizes, HTML/CSS only) | HTML / CSS / Vercel |
+| [押印 / Oshi-Log](https://oshi-log-shizuku.vercel.app) | Personal activity log app, dark-mode UI | HTML / CSS / JS / Vercel |
+| [Stillwater LP](https://lp-demo-shizuku.vercel.app) | Visiting nursing station LP (medical) | HTML / CSS / Vercel |
+| [Lumière LP](https://salon-demo-shizuku.vercel.app) | Esthetics salon LP, serif × earth-tone | HTML / CSS / Vercel |
+| [Banner Samples](https://banner-demo-shizuku.vercel.app) | Multi-size banners, static + animated | HTML / CSS / Vercel |
 
 ### Available for
 
 - LP design & coding
 - Figma delivery
 - Page improvement & diff deployment
-- Banner production (multi-size)
+- Banner production (multi-size, animated)
 
 ### Contact
 
