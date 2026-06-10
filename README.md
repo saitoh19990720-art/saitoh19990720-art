@@ -27,12 +27,14 @@
 | [UTM Builder](https://portfolio-sizuku.vercel.app/utm.html) | 計測タグを「選ぶだけ」で生成。表記ゆれ事故を設計で防ぐツール |
 | [さくらチェッカー](https://sakura-checker.vercel.app) | レビュー文からサクラ度を判定するアプリ |
 | [出品センチネル](https://github.com/saitoh19990720-art/listing-sentinel) | フリマ出品の怪しさを完全ローカルで判定するChrome拡張（家族を詐欺から守る） |
+| [チェキメーカー](https://cheki-maker.vercel.app) | 画像＋ひとことを淡色のチェキ風PNGにする1ファイルWebアプリ |
 
 ## リポジトリ
 
 - **[utm-builder](https://github.com/saitoh19990720-art/utm-builder)** — 計測タグ生成ツール
 - **[sakura-checker](https://github.com/saitoh19990720-art/sakura-checker)** — サクラ度判定アプリ
 - **[listing-sentinel](https://github.com/saitoh19990720-art/listing-sentinel)** — フリマ詐欺チェックChrome拡張（完全ローカル）
+- **[cheki-maker](https://github.com/saitoh19990720-art/cheki-maker)** — チェキ風PNG生成Webアプリ
 - **[oshi-log](https://github.com/saitoh19990720-art/oshi-log)** — 推し活ログアプリ
 - **[portfolio](https://github.com/saitoh19990720-art/portfolio)** — ポートフォリオサイトのソース
 
