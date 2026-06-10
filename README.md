@@ -35,6 +35,8 @@
 - **[sakura-checker](https://github.com/saitoh19990720-art/sakura-checker)** — サクラ度判定アプリ
 - **[listing-sentinel](https://github.com/saitoh19990720-art/listing-sentinel)** — フリマ詐欺チェックChrome拡張（完全ローカル）
 - **[cheki-maker](https://github.com/saitoh19990720-art/cheki-maker)** — チェキ風PNG生成Webアプリ
+- **[material-watch](https://github.com/saitoh19990720-art/material-watch)** — 重要な変化だけをObsidianへまとめる監視スクリプト
+- **[oshi-watch](https://github.com/saitoh19990720-art/oshi-watch)** — RSSの新着を自動でNotionに集める推し活ツール
 - **[oshi-log](https://github.com/saitoh19990720-art/oshi-log)** — 推し活ログアプリ
 - **[portfolio](https://github.com/saitoh19990720-art/portfolio)** — ポートフォリオサイトのソース
 
