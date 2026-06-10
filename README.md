@@ -1,43 +1,44 @@
-## Hi, I'm Shizuku
+# Shizuku ／ ななたま
 
-Freelance designer & front-end developer based in Japan.  
-Specializing in **Z-gen SNS culture design** — translating the aesthetic language of _jiraiken / tenshi / mizuiro_ (JP fan-account subcultures) into Figma systems and AI-powered products.
+> 静かで深い思考を、誰かの心を動かすデザインにする。
 
-### What I do
+**界隈デザイン × Figma × AI** で制作しています。
+地雷系・天使・水色——SNSの界隈（サブカル）が持つ美意識を、Figmaの設計システムとAIを使ったプロダクトに翻訳するのが軸です。
 
-- **Subculture design systems** — color, typography, motif rules per aesthetic
-- **LP & Web coding** — HTML / CSS, pixel-perfect from Figma handoff
-- **UI design** — Figma component design, design token architecture
-- **SNS template design** — headers, icons, story layouts for fan accounts
-- **AI × MCP implementation** — Claude Code / MCP for rapid front-end builds
-- **Light automation** — n8n workflows
+可愛いを作るのではなく、静かで美しい構造を作る。その結果として可愛く見える——を大事にしています。
 
-### Stack
+## できること
 
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+- **界隈デザインシステム** — 美学ごとの配色・タイポグラフィ・モチーフ規則を設計
+- **LP・Webコーディング** — Figmaからの実装（HTML / CSS）
+- **UIデザイン** — Figmaコンポーネント設計・デザイントークン設計
+- **SNSテンプレート** — ヘッダー・アイコン・ストーリー設計
+- **AI × Claude Code / MCP** — フロント実装の高速化
+- **軽い自動化** — n8n ワークフロー
 
-### Work
+## つくったもの
 
-| Project | Description | Stack |
-|---|---|---|
-| [押印 / Oshi-Log](https://oshi-log-shizuku.vercel.app) | Fan activity log app — dark/light, CSS token design, search filter | HTML / CSS / JS / Vercel |
-| [Stillwater LP](https://lp-demo-shizuku.vercel.app) | Visiting nursing LP (medical) | HTML / CSS / Vercel |
-| [Lumière LP](https://salon-demo-shizuku.vercel.app) | Esthetics salon LP, serif × earth-tone | HTML / CSS / Vercel |
-| [Banner Samples](https://banner-demo-shizuku.vercel.app) | Multi-size banners, static + animated | HTML / CSS / Vercel |
+| 作品 | 内容 |
+|---|---|
+| [押印 / Oshi-Log](https://oshi-log-shizuku.vercel.app) | 推し活ログアプリ（ダーク/ライト・CSSトークン設計・検索フィルタ） |
+| [Stillwater LP](https://lp-demo-shizuku.vercel.app) | 訪問看護のLP（医療） |
+| [Lumière LP](https://salon-demo-shizuku.vercel.app) | エステサロンLP（明朝 × アースカラー） |
+| [Banner Samples](https://banner-demo-shizuku.vercel.app) | 複数サイズのバナー（静止＋アニメ） |
+| [UTM Builder](https://portfolio-sizuku.vercel.app/utm.html) | 計測タグを「選ぶだけ」で生成。表記ゆれ事故を設計で防ぐツール |
+| [さくらチェッカー](https://github.com/saitoh19990720-art/sakura-checker) | レビュー文からサクラ度を判定するアプリ |
 
-### Repos
+## リポジトリ
 
-- **[oshi-log](https://github.com/saitoh19990720-art/oshi-log)** — Fan activity log app (Vanilla JS)
-- **[portfolio](https://github.com/saitoh19990720-art/portfolio)** — Portfolio site source
+- **[utm-builder](https://github.com/saitoh19990720-art/utm-builder)** — 計測タグ生成ツール
+- **[sakura-checker](https://github.com/saitoh19990720-art/sakura-checker)** — サクラ度判定アプリ
+- **[oshi-log](https://github.com/saitoh19990720-art/oshi-log)** — 推し活ログアプリ
+- **[portfolio](https://github.com/saitoh19990720-art/portfolio)** — ポートフォリオサイトのソース
 
-### Contact
+## 道具
 
-- Portfolio: https://shizuku-portfolio.vercel.app
-- CrowdWorks / Lancers:「しずく」で検索
+Figma ／ Claude Code・MCP ／ HTML・CSS・JavaScript ／ Vercel ／ n8n ／ Obsidian
 
----
+## リンク
 
-*Available via text. Response within 24h.*
+- Portfolio — https://portfolio-sizuku.vercel.app
+- ご相談はテキストで（非同期・低刺激で進めます）
