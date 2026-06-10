@@ -25,7 +25,7 @@
 | [Lumière LP](https://salon-demo-shizuku.vercel.app) | エステサロンLP（明朝 × アースカラー） |
 | [Banner Samples](https://banner-demo-shizuku.vercel.app) | 複数サイズのバナー（静止＋アニメ） |
 | [UTM Builder](https://portfolio-sizuku.vercel.app/utm.html) | 計測タグを「選ぶだけ」で生成。表記ゆれ事故を設計で防ぐツール |
-| [さくらチェッカー](https://github.com/saitoh19990720-art/sakura-checker) | レビュー文からサクラ度を判定するアプリ |
+| [さくらチェッカー](https://sakura-checker.vercel.app) | レビュー文からサクラ度を判定するアプリ |
 
 ## リポジトリ
 
