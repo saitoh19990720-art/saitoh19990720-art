@@ -28,6 +28,8 @@
 | [さくらチェッカー](https://sakura-checker.vercel.app) | レビュー文からサクラ度を判定するアプリ |
 | [出品センチネル](https://github.com/saitoh19990720-art/listing-sentinel) | フリマ出品の怪しさを完全ローカルで判定するChrome拡張（家族を詐欺から守る） |
 | [チェキメーカー](https://cheki-maker.vercel.app) | 画像＋ひとことを淡色のチェキ風PNGにする1ファイルWebアプリ |
+| [Amazonレビュー透視](https://amazon-checker-web.vercel.app) | Amazonレビューの不自然なパターンからサクラ度を可視化するツール |
+| [あなたらしいがわかるアプリ](https://you-cosme-demo.vercel.app) | 問いから「自分らしさ」を可視化する診断アプリ |
 
 ## リポジトリ
 
