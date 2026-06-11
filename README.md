@@ -37,6 +37,7 @@
 - **[cheki-maker](https://github.com/saitoh19990720-art/cheki-maker)** — チェキ風PNG生成Webアプリ
 - **[material-watch](https://github.com/saitoh19990720-art/material-watch)** — 重要な変化だけをObsidianへまとめる監視スクリプト
 - **[oshi-watch](https://github.com/saitoh19990720-art/oshi-watch)** — RSSの新着を自動でNotionに集める推し活ツール
+- **[oshilog-preflight](https://github.com/saitoh19990720-art/oshilog-preflight)** — 印刷入稿アセットをCIで検証（塗り足しgeometry照合つき・GitHub Actions）
 - **[oshi-log](https://github.com/saitoh19990720-art/oshi-log)** — 推し活ログアプリ
 - **[portfolio](https://github.com/saitoh19990720-art/portfolio)** — ポートフォリオサイトのソース
 
